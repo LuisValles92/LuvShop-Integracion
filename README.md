@@ -1,5 +1,5 @@
 # LuvShop-Integracion
-_Angular | Spring Boot | Okta_  
+_Spring Boot | Okta | Angular_  
 Curso: Full Stack: Angular and Java Spring Boot.  
 Build a Full Stack application with Angular and Java Spring Boot.  
   
